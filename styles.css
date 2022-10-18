@@ -150,7 +150,7 @@ body {
 }
 
 .lista__link a:active {
-    color: blueviolet;
+    color: var(--botao-azul-efeito);
 }
 
 .container__botao:hover {
